@@ -1,3 +1,5 @@
+## Description
+
 Compound interest is a powerful force that can significantly increase the value of your savings and investments over time. However, it can be difficult to understand just how much of an impact it can have without actually seeing the numbers.
 
 This is where a compound interest calculator can be incredibly helpful. A compound interest calculator is a tool that allows you to input certain variables, such as the initial investment amount, the interest rate, and the time period, and it will calculate the future value of that investment based on compound interest.
